@@ -23,16 +23,18 @@ Breaking and building systems since '11. /home sweet /home".
 - My old projects
 - Building WebSite
 - Proxmox Projects
-- Cyber Secuity
+- Cyber Security
 
 ## 🌱 I'm currently learning
 
+- Docker
 - Cyber Security
 - AI integration
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Proxmox-informational?style=flat&logo=Proxmox&color=181717)
+![](https://img.shields.io/badge/Proxmox-React-informational?style=flat&logo=Proxmox&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
