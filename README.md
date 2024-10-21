@@ -38,11 +38,7 @@ Breaking and building systems since '11. /home sweet /home". 💻
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=Linux&color=F7DF1E)
 ![](https://img.shields.io/badge/System-Docker-informational?style=flat&logo=Docker&color=003B57)
-![](https://img.shields.io/badge/Proxmox-Proxmox-informational?style=flat&logo=Proxmox&color=3A5EBA)
- ![](https://img.shields.io/badge/Microsoft-Microsoft-informational?style=flat&logo=Microsoft&color=F25025)
- ![](https://img.shields.io/badge/Powershell-Powershell-informational?style=flat&logo=Powershell&color=0078D7)
- ![](https://img.shields.io/badge/Ansible-Ansible-informational?style=flat&logo=Ansible&color=A50000)
- ![](https://img.shields.io/badge/Linux-Linux-informational?style=flat&logo=Linux&color=FCC624)
+
 
 </br>
 
