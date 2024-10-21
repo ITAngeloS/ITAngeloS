@@ -7,10 +7,10 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Angelo</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a IT lover 💻
+Breaking and building systems since '11. /home sweet /home". 💻
 </h2> 
 
-Breaking and building systems since '11. /home sweet /home".
+
 
 ### 🤝 Connect with me:
 
