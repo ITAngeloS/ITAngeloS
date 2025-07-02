@@ -25,7 +25,7 @@ Breaking and building systems since '11. /home sweet /home". 💻
 
 - Docker
 - Cyber Security
-- Ollama AI integration
+- N8n Automation & Ollama AI integration
 
 ## 💼 Technical Skills
 
